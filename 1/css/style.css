@@ -1,0 +1,62 @@
+.point
+{
+    border-style: none;
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    background-color: limegreen;
+    margin-left: 65px;
+    margin-top: -30px;
+}
+
+nav
+{
+    display:inline;
+    height: 20px;
+}
+button
+{
+    border-style: solid;
+    border-color: greenyellow;
+    border-radius: 20%;
+    border-width: medium;
+    background-color: white;
+}
+header
+{
+     background-image: url(background.jpeg);
+    height: 500px;
+    color: white;
+}
+.loc
+{
+    border-style: none;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: limegreen;
+    border-top-width: 2px;
+}
+.all
+{
+    padding-top: 70px;
+    padding-left: 60px;
+}
+.bar
+{
+    border-width: medium;
+     border-radius: 50px;
+    border-color: white;
+    background-color: white;
+    color: gainsboro;
+    width: 650px;
+    height: 25px;
+}
+.S
+{
+    border-style: solid;
+    border-color: limegreen;
+    border-radius: 30%;
+    border-width: medium;
+    background-color: limegreen;
+}
